@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-03T01:26:29.080564",
-  "total_flagged_users": 68,
+  "updated_at": "2025-12-03T01:31:28.896601",
+  "total_flagged_users": 67,
   "flagged_users": [
     {
       "roblox_user_id": "7732290261",
@@ -841,18 +841,6 @@
         }
       ],
       "flagged_at": "2025-12-01T02:55:27.689042"
-    },
-    {
-      "roblox_user_id": "2746155940",
-      "roblox_username": "Haibastoneminuscolo",
-      "tags": [
-        {
-          "tag_name": "Clan Administrator",
-          "tag_color": "#ff6b6b",
-          "reason": ""
-        }
-      ],
-      "flagged_at": "2025-12-02T01:06:29.227690"
     },
     {
       "roblox_user_id": "3470720239",
