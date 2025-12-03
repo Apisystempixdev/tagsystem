@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-03T07:18:49.553999",
-  "total_flagged_users": 15,
+  "updated_at": "2025-12-03T07:23:49.378721",
+  "total_flagged_users": 14,
   "flagged_users": [
     {
       "roblox_user_id": "9274906279",
@@ -42,18 +42,6 @@
         }
       ],
       "flagged_at": "2025-11-28T21:13:34.235985"
-    },
-    {
-      "roblox_user_id": "7871682472",
-      "roblox_username": "Iithisasillyaltii",
-      "tags": [
-        {
-          "tag_name": "Nick",
-          "tag_color": "#001eff",
-          "reason": ""
-        }
-      ],
-      "flagged_at": "2025-11-28T21:19:21.041648"
     },
     {
       "roblox_user_id": "8408967",
