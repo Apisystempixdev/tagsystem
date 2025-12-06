@@ -1,7 +1,24 @@
 {
-  "updated_at": "2025-12-06T17:13:49.373942",
+  "updated_at": "2025-12-06T17:18:49.337982",
   "total_flagged_users": 14,
   "flagged_users": [
+    {
+      "roblox_user_id": "265559317",
+      "roblox_username": "Bastiensilly",
+      "tags": [
+        {
+          "tag_name": "Submissive",
+          "tag_color": "#e1a8ff",
+          "reason": ""
+        },
+        {
+          "tag_name": "Lost to a girl over 20x in a row",
+          "tag_color": "#d900ff",
+          "reason": ""
+        }
+      ],
+      "flagged_at": "2025-12-06T17:15:40.946240"
+    },
     {
       "roblox_user_id": "9274906279",
       "roblox_username": "Battleof_Bacons",
@@ -100,18 +117,6 @@
         }
       ],
       "flagged_at": "2025-11-30T16:18:41.398624"
-    },
-    {
-      "roblox_user_id": "265559317",
-      "roblox_username": "Bastiensilly",
-      "tags": [
-        {
-          "tag_name": "Lost to a girl over 20x in a row",
-          "tag_color": "#d900ff",
-          "reason": ""
-        }
-      ],
-      "flagged_at": "2025-11-30T22:45:42.187070"
     },
     {
       "roblox_user_id": "1191444043",
