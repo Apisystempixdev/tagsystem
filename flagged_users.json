@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-07T20:33:49.422925",
-  "total_flagged_users": 14,
+  "updated_at": "2025-12-07T20:38:49.427207",
+  "total_flagged_users": 13,
   "flagged_users": [
     {
       "roblox_user_id": "265559317",
@@ -86,18 +86,6 @@
         }
       ],
       "flagged_at": "2025-11-28T21:13:34.235985"
-    },
-    {
-      "roblox_user_id": "8408967",
-      "roblox_username": "F0t",
-      "tags": [
-        {
-          "tag_name": "Pet",
-          "tag_color": "#d86bff",
-          "reason": ""
-        }
-      ],
-      "flagged_at": "2025-11-29T00:47:43.434866"
     },
     {
       "roblox_user_id": "2284821012",
