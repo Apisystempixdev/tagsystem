@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-12T02:13:49.431853",
-  "total_flagged_users": 14,
+  "updated_at": "2025-12-12T02:18:49.411503",
+  "total_flagged_users": 12,
   "flagged_users": [
     {
       "roblox_user_id": "265559317",
@@ -33,30 +33,6 @@
         }
       ],
       "flagged_at": "2025-12-06T17:15:40.946240"
-    },
-    {
-      "roblox_user_id": "8584241094",
-      "roblox_username": "Superjumbomega0",
-      "tags": [
-        {
-          "tag_name": "Developer\u2019s Toy",
-          "tag_color": "#00d3e9",
-          "reason": ""
-        }
-      ],
-      "flagged_at": "2025-12-07T09:14:25.781479"
-    },
-    {
-      "roblox_user_id": "4157031981",
-      "roblox_username": "Mehpg3d_Main",
-      "tags": [
-        {
-          "tag_name": "Developer\u2019s Toy",
-          "tag_color": "#00d3e9",
-          "reason": ""
-        }
-      ],
-      "flagged_at": "2025-12-09T01:35:28.875567"
     },
     {
       "roblox_user_id": "1278416976",
