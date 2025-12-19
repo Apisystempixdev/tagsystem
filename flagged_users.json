@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-19T06:09:13.570570",
-  "total_flagged_users": 14,
+  "updated_at": "2025-12-19T06:14:13.810492",
+  "total_flagged_users": 15,
   "flagged_users": [
     {
       "roblox_user_id": "265559317",
@@ -269,6 +269,18 @@
         }
       ],
       "flagged_at": "2025-12-16T16:05:31.195485"
+    },
+    {
+      "roblox_user_id": "5472267729",
+      "roblox_username": "C0nsum3s",
+      "tags": [
+        {
+          "tag_name": "Sword Master",
+          "tag_color": "#ff6b6b",
+          "reason": ""
+        }
+      ],
+      "flagged_at": "2025-12-19T06:13:43.015946"
     }
   ]
 }
