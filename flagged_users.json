@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-22T05:18:01.030858",
-  "total_flagged_users": 15,
+  "updated_at": "2025-12-22T05:23:01.061843",
+  "total_flagged_users": 14,
   "flagged_users": [
     {
       "roblox_user_id": "265559317",
@@ -141,23 +141,6 @@
         }
       ],
       "flagged_at": "2025-12-20T12:22:50.340092"
-    },
-    {
-      "roblox_user_id": "9274906279",
-      "roblox_username": "Battleof_Bacons",
-      "tags": [
-        {
-          "tag_name": "Developer\u2019s Toy",
-          "tag_color": "#00d3e9",
-          "reason": ""
-        },
-        {
-          "tag_name": "Mommy's Owner",
-          "tag_color": "#f4c2c2",
-          "reason": ""
-        }
-      ],
-      "flagged_at": "2025-11-28T00:02:48.357112"
     },
     {
       "roblox_user_id": "1955289209",
