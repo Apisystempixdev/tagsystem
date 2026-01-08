@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-01-08T03:49:11.773329",
-  "total_flagged_users": 6,
+  "updated_at": "2026-01-08T03:51:37.050235",
+  "total_flagged_users": 7,
   "flagged_users": [
     {
       "roblox_user_id": "3986691309",
@@ -30,6 +30,18 @@
         }
       ],
       "flagged_at": "2025-12-20T12:22:50.340092"
+    },
+    {
+      "roblox_user_id": "318230",
+      "roblox_username": "Xaz",
+      "tags": [
+        {
+          "tag_name": "XAZ",
+          "tag_color": "#00eade",
+          "reason": ""
+        }
+      ],
+      "flagged_at": "2026-01-08T03:51:15.218497"
     },
     {
       "roblox_user_id": "1232263417",
