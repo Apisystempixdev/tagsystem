@@ -1,95 +1,53 @@
 {
-  "updated_at": "2026-01-27T13:55:36.186990",
-  "total_flagged_users": 7,
+  "updated_at": "2026-01-27T13:56:46.373018",
+  "total_flagged_users": 1,
   "flagged_users": [
     {
-      "discord_user_id": "3986691309",
       "roblox_user_id": null,
+      "roblox_username": "Vidhosen",
       "tags": [
         {
           "tag_name": "Poptart",
           "tag_color": "#ffc9fc",
           "reason": ""
-        }
-      ],
-      "flagged_at": "2025-12-16T16:15:27.302734"
-    },
-    {
-      "discord_user_id": "8267342579",
-      "roblox_user_id": null,
-      "tags": [
+        },
         {
           "tag_name": "Bot Developer",
           "tag_color": "#000000",
           "reason": ""
         },
         {
-          "tag_name": "Website Manager",
-          "tag_color": "#000000",
-          "reason": ""
-        }
-      ],
-      "flagged_at": "2025-12-20T12:22:50.340092"
-    },
-    {
-      "discord_user_id": "318230",
-      "roblox_user_id": null,
-      "tags": [
-        {
           "tag_name": "XAZ",
           "tag_color": "#00eade",
           "reason": ""
-        }
-      ],
-      "flagged_at": "2026-01-08T03:51:15.218497"
-    },
-    {
-      "discord_user_id": "1232263417",
-      "roblox_user_id": null,
-      "tags": [
+        },
+        {
+          "tag_name": "Website Manager",
+          "tag_color": "#000000",
+          "reason": ""
+        },
+        {
+          "tag_name": "UNO",
+          "tag_color": "#f5fffd",
+          "reason": ""
+        },
+        {
+          "tag_name": "UNO",
+          "tag_color": "#f5fffd",
+          "reason": ""
+        },
+        {
+          "tag_name": "UNO",
+          "tag_color": "#f5fffd",
+          "reason": ""
+        },
         {
           "tag_name": "UNO",
           "tag_color": "#f5fffd",
           "reason": ""
         }
       ],
-      "flagged_at": "2025-12-03T02:51:47.834657"
-    },
-    {
-      "discord_user_id": "9854786043",
-      "roblox_user_id": null,
-      "tags": [
-        {
-          "tag_name": "UNO",
-          "tag_color": "#f5fffd",
-          "reason": ""
-        }
-      ],
-      "flagged_at": "2025-12-07T07:43:02.255003"
-    },
-    {
-      "discord_user_id": "2284821012",
-      "roblox_user_id": null,
-      "tags": [
-        {
-          "tag_name": "UNO",
-          "tag_color": "#f5fffd",
-          "reason": ""
-        }
-      ],
-      "flagged_at": "2025-12-09T04:00:54.507484"
-    },
-    {
-      "discord_user_id": "1418918856",
-      "roblox_user_id": null,
-      "tags": [
-        {
-          "tag_name": "UNO",
-          "tag_color": "#f5fffd",
-          "reason": ""
-        }
-      ],
-      "flagged_at": "2025-12-23T04:14:36.948442"
+      "flagged_at": "2025-12-16T16:15:27.302734"
     }
   ]
 }
