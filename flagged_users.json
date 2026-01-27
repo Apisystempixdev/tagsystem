@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-01-27T01:46:07.069345",
+  "updated_at": "2026-01-27T01:53:14.423410",
   "total_flagged_users": 7,
   "flagged_users": [
     {
-      "roblox_user_id": "3986691309",
-      "roblox_username": "Vidhosen",
+      "discord_user_id": "3986691309",
+      "roblox_user_id": null,
       "tags": [
         {
           "tag_name": "Poptart",
@@ -15,8 +15,8 @@
       "flagged_at": "2025-12-16T16:15:27.302734"
     },
     {
-      "roblox_user_id": "8267342579",
-      "roblox_username": "3ok59",
+      "discord_user_id": "8267342579",
+      "roblox_user_id": null,
       "tags": [
         {
           "tag_name": "Bot Developer",
@@ -32,8 +32,8 @@
       "flagged_at": "2025-12-20T12:22:50.340092"
     },
     {
-      "roblox_user_id": "318230",
-      "roblox_username": "Xaz",
+      "discord_user_id": "318230",
+      "roblox_user_id": null,
       "tags": [
         {
           "tag_name": "XAZ",
@@ -44,8 +44,8 @@
       "flagged_at": "2026-01-08T03:51:15.218497"
     },
     {
-      "roblox_user_id": "1232263417",
-      "roblox_username": "Valerapro91",
+      "discord_user_id": "1232263417",
+      "roblox_user_id": null,
       "tags": [
         {
           "tag_name": "UNO",
@@ -56,8 +56,8 @@
       "flagged_at": "2025-12-03T02:51:47.834657"
     },
     {
-      "roblox_user_id": "9854786043",
-      "roblox_username": "Myboyshinji",
+      "discord_user_id": "9854786043",
+      "roblox_user_id": null,
       "tags": [
         {
           "tag_name": "UNO",
@@ -68,8 +68,8 @@
       "flagged_at": "2025-12-07T07:43:02.255003"
     },
     {
-      "roblox_user_id": "2284821012",
-      "roblox_username": "Kyrie_2463",
+      "discord_user_id": "2284821012",
+      "roblox_user_id": null,
       "tags": [
         {
           "tag_name": "UNO",
@@ -80,8 +80,8 @@
       "flagged_at": "2025-12-09T04:00:54.507484"
     },
     {
-      "roblox_user_id": "1418918856",
-      "roblox_username": "Mrs_Mord",
+      "discord_user_id": "1418918856",
+      "roblox_user_id": null,
       "tags": [
         {
           "tag_name": "UNO",
